@@ -1,0 +1,9 @@
+G:\Projects\VS2013\RpiTest\RpiTest\bin\Debug\RpiTest.exe.config
+G:\Projects\VS2013\RpiTest\RpiTest\obj\Debug\RpiTest.csprojResolveAssemblyReference.cache
+G:\Projects\VS2013\RpiTest\RpiTest\obj\Debug\RpiTest.Form1.resources
+G:\Projects\VS2013\RpiTest\RpiTest\obj\Debug\RpiTest.Properties.Resources.resources
+G:\Projects\VS2013\RpiTest\RpiTest\obj\Debug\RpiTest.csproj.GenerateResource.Cache
+G:\Projects\VS2013\RpiTest\RpiTest\bin\Debug\RpiTest.exe
+G:\Projects\VS2013\RpiTest\RpiTest\bin\Debug\RpiTest.pdb
+G:\Projects\VS2013\RpiTest\RpiTest\obj\Debug\RpiTest.exe
+G:\Projects\VS2013\RpiTest\RpiTest\obj\Debug\RpiTest.pdb
