@@ -49,6 +49,7 @@
 			this.txtConsoleOutput.Location = new System.Drawing.Point(26, 165);
 			this.txtConsoleOutput.Multiline = true;
 			this.txtConsoleOutput.Name = "txtConsoleOutput";
+			this.txtConsoleOutput.ScrollBars = System.Windows.Forms.ScrollBars.Both;
 			this.txtConsoleOutput.Size = new System.Drawing.Size(435, 210);
 			this.txtConsoleOutput.TabIndex = 1;
 			// 
@@ -83,6 +84,8 @@
 			this.Controls.Add(this.button1);
 			this.Name = "Form1";
 			this.Text = "Form1";
+			this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
+			this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Form1_FormClosed);
 			this.Load += new System.EventHandler(this.Form1_Load);
 			this.ResumeLayout(false);
 			this.PerformLayout();
